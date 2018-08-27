@@ -1,0 +1,21 @@
+@media screen and (max-width: 521px) {
+#navBar h1 {
+	display: block;
+	width: auto;
+	padding: 20px 0 0 10px;
+	font-size: 30px;
+	text-align: center;
+}
+
+#navBar ul {
+	margin-top: 5px;
+	float: none;
+	display: inline;
+	text-align: center;
+}
+
+#navBar ul li {
+	padding: 1px 10px;
+	display: block;
+}
+}
